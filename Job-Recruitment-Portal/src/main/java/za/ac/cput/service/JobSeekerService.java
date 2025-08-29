@@ -23,6 +23,6 @@ public class JobSeekerService {
     public void deleteJobSeeker(Long id) {jobSeekerRepository.deleteById(id);}
 
     public JobSeeker saveJobSeeker(JobSeeker jobSeeker) {
-        return null;
+        return jobSeekerRepository.save(jobSeeker);
     }
 }
