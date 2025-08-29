@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b22435a-5961-43d9-a965-8abc057782e3" name="Changes" comment="Done!">
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/ResumeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/SkillController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/WorkExperienceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/repository/ResumeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/repository/SkillRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/repository/WorkExperienceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/service/ResumeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/service/SkillService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/service/WorkExperienceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/ApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/EducationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/controller/NotificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/domain/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/repository/NotificationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/service/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/java/za/ac/cput/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Job-Recruitment-Portal/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756486160991</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done!">
+      <option name="closed" value="true" />
+      <created>1756488303917</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756488303919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
