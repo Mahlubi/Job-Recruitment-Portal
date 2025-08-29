@@ -13,6 +13,7 @@ public class JobSeekerController {
     @Autowired
     private JobSeekerService jobSeekerService;
 
+
     @GetMapping
     public List<JobSeeker> getAllJobSeekers() {
         return jobSeekerService.getAllJobSeekers();
